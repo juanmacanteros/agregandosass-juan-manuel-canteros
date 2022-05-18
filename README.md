@@ -1,3 +1,2 @@
-Agregando Sass
-Desafio 1 y 2 de Sass
-No esta hecho en base al proyecto final, sino en una pagina nueva para ver el trabajo realizado sobre Sass
+En el archivo index.html sumé el SEO con las siguientes características: br
+
